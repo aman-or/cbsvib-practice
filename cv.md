@@ -1,4 +1,4 @@
-#Orazgeldiyev Aman Begenchevich 
+# Orazgeldiyev Aman Begenchevich 
 
 ## Contact
 
@@ -22,7 +22,9 @@ Email: orazgeldyev.ab001@gmail.com
 
 - Git;
 
-Other:
+## Other:
+
+---
 
 English: A2
 
