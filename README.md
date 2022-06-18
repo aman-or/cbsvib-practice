@@ -1,3 +1,3 @@
 # cbsvib-practice
 
-[CV](https://aman-or.github.io/cbsvib-practice/gh-pages)
+[CV](https://github.com/aman-or/cbsvib-practice/blob/gh-pages/cv.md)
